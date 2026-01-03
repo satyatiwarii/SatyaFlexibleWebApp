@@ -1,0 +1,23 @@
+{
+  "name": "satyaflexiblewebapp",
+  "version": "1.0.0",
+  "description": "This Repo has CAPM project with DB, SRV and JS handler code (without Freestyle UI ) that can be used as base to create different UI application. DO NOT MAKE changes in this REPO , use this repo as base code to create different applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satyatiwarii/SatyaFlexibleWebApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/satyatiwarii/SatyaFlexibleWebApp/issues"
+  },
+  "homepage": "https://github.com/satyatiwarii/SatyaFlexibleWebApp#readme",
+  "dependencies": {
+    "@sap/cds": "^9.6.1"
+  }
+}
